@@ -1,2 +1,2 @@
 # Algoritmos
- Resolucion de ejercicios que involucren la aplicacion de diversos algoritmos de programacion
+ This repository contains a collection of algorithm implementations in Python and C++, organized by category. It serves as a personal practice and learning resource for data structures and algorithmic problem solving.
